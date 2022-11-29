@@ -1,2 +1,2 @@
 # musicApp
-# this project uses Qt libraries
+ this project uses Qt framework
