@@ -1,1 +1,2 @@
-# muzica
+# musicApp
+# this project uses Qt libraries
